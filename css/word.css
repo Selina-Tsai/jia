@@ -7,17 +7,17 @@ font-family: 'Noto Sans TC', sans-serif;
 color:#E8CCFF
 }
 .bg-primary {
-  background-color: #FF88C2!important;
+  background-color: #FF8888!important;
 }
 
 .text-primary {
-  color: #FF88C2!important;
+  color: #FF8888!important;
 }
 
 a {
-  color: #FF88C2;
+  color: #FF8888;
 }
 
 a:hover, a:focus, a:active {
-  color: #FF88C2;
+  color: #FF8888;
 }
