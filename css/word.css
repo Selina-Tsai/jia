@@ -3,8 +3,9 @@ body {
   color:#FFA488
 }
 h1, h2, h3 {
-font-family: 'Noto Sans TC', sans-serif;
-color:#FFA488
+  font-family: 'Noto Sans TC', sans-serif;
+  text-transform:none;
+  color:#FFA488
 }
 .bg-primary {
   background-color: #FF8888!important;
@@ -22,6 +23,7 @@ a:hover, a:focus, a:active {
   color: #FF8888;
 }
 .subheading {
+  text-transform:none;
   font-family: 'Noto Sans TC', sans-serif;
 }
 
