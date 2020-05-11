@@ -41,11 +41,10 @@ th, td: {
 }
 
 .flex-container{
-    display: flex;
-    flex-flow:row wrap;
-    justify-content:space-around;
+ display: flex;
+ flex-flow:row wrap;
+ justify-content:space-around;
 }
-
 div#work{
-    width:300px;
+ width:300px;
 }
