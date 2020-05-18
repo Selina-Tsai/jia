@@ -38,6 +38,7 @@ table {
 
 th, td: {
   text-align: justify;
+  color: #FF8888;
 }
 
 .flex-container{
